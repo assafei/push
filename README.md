@@ -2,6 +2,9 @@
 raix:push Push notifications
 =========
 
+Assaf: to use in development mode, need the following:
+    export PACKAGE_DIRS="/Users/assafei/workspace/ae-packages"
+
 > Push notifications for cordova (ios, android) browser (Chrome, Safari, Firefox) - One unified api on client and server.
 
 Status:
